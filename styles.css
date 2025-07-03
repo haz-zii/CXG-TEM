@@ -98,3 +98,17 @@ a {
     text-decoration: none;
     color: white;
 }
+
+ a:link { /* Unvisited links */
+    color: white; /* Replace with your desired color */
+    text-decoration: none; /* Optional: Remove underline */
+ }
+
+a:visited { /* Visited links */
+     color: #FFFFFF; /* Replace with your desired color */
+     text-decoration: none; /* Optional: Remove underline */  
+}
+
+
+
+
